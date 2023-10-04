@@ -1,0 +1,10 @@
+
+public interface car1 {
+
+	
+	
+	
+	
+	
+	
+}
